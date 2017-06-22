@@ -4,7 +4,7 @@ import com.badlogic.gdx.Game;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 
 public class ExplorerMain extends Game {
-
+    public static final int V_WIDTH = 400, V_HEIGHT = 200;
     public SpriteBatch batch;
 
     @Override
